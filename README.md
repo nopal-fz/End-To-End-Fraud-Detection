@@ -106,5 +106,5 @@ docker run -p 8000:8000 fraud-detection
 This project is open-source under the **MIT License**.
 
 ---
-**Author:** [Your Name](https://github.com/your-username)  
+**Author:** [Naufal Faiz](https://github.com/nopal-fz)  
 🚀 Happy Coding!
